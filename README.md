@@ -4,7 +4,7 @@ Steven Dawn
 Hello! Welcome to my GitHub 👋
 --------------------
 
-Full-stack developer, always looking for a way to push myself and the boundaries of Web Development space!
+Full-stack developer, always learning and pushing the boundaries of Web Development!
 
 * ✉️  You can contact me at [stevendawn98@gmail.com](mailto:stevendawn98@gmail.com)
 
